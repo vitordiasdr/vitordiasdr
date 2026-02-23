@@ -6,6 +6,22 @@ Engenheiro de Sistemas Embarcados com experiência em projetos de Pesquisa, Dese
 
 ---
 
+### Linkedin
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/vitor-dias-642a6821a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+        <img 
+            alt="Linkedin" 
+            title="Linkedin"
+            width="30px" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+        />
+    </a>
+</p>
+
+---
+
+
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
